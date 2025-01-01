@@ -1,14 +1,14 @@
 [
   {
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/RFIDReader/RfidReader-firmware/refs/heads/master/download/v1.0.0.bin",
-    "shortDesc": "Release",
-    "changelog": "https://github.com/RFIDReader/RfidReader-firmware/blob/master/changelog.md"
+    "url": "https://raw.githubusercontent.com/RFIDReader/firmware/refs/heads/master/download/1.0.0-a.bin",
+    "shortDesc": "Alpha",
+    "changelog": "https://github.com/RFIDReader/firmware/blob/master/changelog.md"
   },
   {
     "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/RFIDReader/RfidReader-firmware/refs/heads/master/download/v1.0.1.bin",
-    "shortDesc": "Beta",
-    "changelog": "https://github.com/RFIDReader/RfidReader-firmware/blob/master/changelog.md"
+    "url": "https://raw.githubusercontent.com/RFIDReader/firmware/refs/heads/master/download/1.0.1-a.bin",
+    "shortDesc": "Alpha",
+    "changelog": "https://github.com/RFIDReader/firmware/blob/master/changelog.md"
   }
 ]
