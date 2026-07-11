@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/RFIDReader/RfidReader-firmware/master/download/1.0.0-a.bin",
+    "shortDesc": "Alpha",
+    "changelog": "https://github.com/RFIDReader/RfidReader-firmware/blob/master/changelog.md"
+  }
+]
