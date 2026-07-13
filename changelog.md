@@ -1,6 +1,6 @@
 ## v1.0.2-a (2026-07-13)
 * feat(protocol): add command cipher support
-* fest(ota): improved OTA streaming performance
+* feat(ota): improved OTA streaming performance
 * fix(settings): failed to r/w values to nvs
 * wip(wifi): improved wifi comm
 
