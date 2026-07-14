@@ -1,3 +1,6 @@
+## v1.0.3-a (2026-07-14)
+- 
+
 ## v1.0.2-a (2026-07-13)
 * feat(protocol): add command cipher support
 * feat(ota): improved OTA streaming performance

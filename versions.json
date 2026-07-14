@@ -16,5 +16,11 @@
     "url": "https://raw.githubusercontent.com/RFIDReader/RfidReader-firmware/master/download/1.0.2-a.bin",
     "shortDesc": "Alpha",
     "changelog": "https://github.com/RFIDReader/RfidReader-firmware/blob/master/changelog.md"
+  },
+  {
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/RFIDReader/RfidReader-firmware/master/download/1.0.3-a.bin",
+    "shortDesc": "Alpha",
+    "changelog": "https://github.com/RFIDReader/RfidReader-firmware/blob/master/changelog.md"
   }
 ]
